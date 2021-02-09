@@ -1,0 +1,2 @@
+let obj = new Object(); var length = obj.length; console.log(`La longitud del objeto ${obj} es ${length}`);
+

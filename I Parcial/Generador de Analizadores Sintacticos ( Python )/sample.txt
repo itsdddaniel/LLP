@@ -1,0 +1,41 @@
+#include<iostream>
+
+welcomeText = "Bienvenido";
+resultText = "El resultado de la suma es: ";
+
+a = 1.1;
+suma = a + a + 2;
+multi = suma * suma;
+div = multi/2;
+
+newResultText = "El resultado de la suma es: " + a;
+
+test = (3+1*(4+5))/2;
+
+test2 = 3(3);
+test3 = (6)(6-54);
+
+print (welcomeText);
+print (resultText);
+print ("El resultado de la multiplicacion es: " + multi);
+print ("El resultado de la division es: " + div);
+print ("Testeo de PEMDAS: " + test);
+print ("Testeo de multiplicacion sin signo y con parentesis: " + test2);
+print ("Testeo de la multiplicacion solo con parentesis: " + test3);
+print (newResultText + div);
+print ("hola" + test);
+
+class algo 
+{
+    public:
+        int diferente;
+}
+
+int test(float x,int y,double w,double z)
+{
+
+    print ("adentro de la funcion");
+
+};
+
+#endif

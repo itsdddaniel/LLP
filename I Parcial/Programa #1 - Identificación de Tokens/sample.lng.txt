@@ -1,0 +1,12 @@
+number = 1;
+
+
+
+
+
+
+
+
+
+name=number    ; 
+char=0.1           ; 

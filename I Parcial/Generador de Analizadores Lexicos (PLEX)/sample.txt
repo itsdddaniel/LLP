@@ -1,0 +1,13 @@
+message = "Bienvenido a Lenguajes de Programación";
+a = 2.5;
+b = 3;
+b = " a + b * 2";
+if(c > 15)
+{
+    print("C es grande");
+}
+else
+{
+    print("C es pequeño");
+}
+final = "Adios";
